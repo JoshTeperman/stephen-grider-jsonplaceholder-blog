@@ -1,4 +1,8 @@
 ## Useful Stuff in this App:
 
-- fetching data from within a Redux App
-- Redux Thunk
+- Fetching data from APIs in Redux & the JSONPlaceholder API
+- Redux Thunk & Redux applyMiddleware
+- Nested Action Creators & manual dispatch()
+- lodash
+
+![screenshot](./screenshot.png)
